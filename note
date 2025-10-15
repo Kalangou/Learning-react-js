@@ -1,0 +1,4 @@
+- Installation react (https://vite.dev/guide/): npm create vite@latest
+- Installation tailwindcss (https://tailwindcss.com/docs/installation/using-vite): npm install tailwindcss @tailwindcss/vite + configuration
+- Installation des composants tailwindcss (https://daisyui.com/docs/install/): npm i -D daisyui@latest + configuration theme
+- Installation des icons lucide (https://lucide.dev/guide/packages/lucide-react): npm install lucide-react
